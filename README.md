@@ -4,6 +4,9 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![AI Assisted](https://img.shields.io/badge/IA-Claude%20(Anthropic)-blueviolet?logo=anthropic)](https://anthropic.com)
+
+> **Nota:** Este projeto foi desenvolvido com o auxílio de Inteligência Artificial (Claude, da Anthropic) para fins de aprendizado, experimentação e aceleração do desenvolvimento. Todo o código foi revisado, compreendido e validado pela equipe. O uso da IA foi intencional e transparente — parte do processo de estudo de novas tecnologias e metodologias de desenvolvimento assistido.
 
 Plataforma mobile para monitoramento e acompanhamento da recuperação de áreas degradadas no Tocantins, integrando técnicos de campo, produtores rurais e gestores do NATURATINS em um único fluxo de trabalho offline-first.
 
