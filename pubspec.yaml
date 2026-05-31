@@ -1,0 +1,71 @@
+name: sara_app
+description: "SARA - Sistema de Acompanhamento da Restauração Ambiental"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0-296.4.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  flutter_riverpod: ^2.6.1
+
+  # Navigation
+  go_router: ^14.8.1
+
+  # Typography
+  google_fonts: ^6.2.1
+
+  # UI Utilities
+  shimmer: ^3.0.0
+  flutter_svg: ^2.0.17
+
+  # Maps
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+
+  # Charts
+  fl_chart: ^0.70.2
+
+  # Storage
+  shared_preferences: ^2.3.4
+  path_provider: ^2.1.5
+
+  # Field capture (camera + GPS)
+  image_picker: ^1.1.2
+  geolocator: ^13.0.2
+  permission_handler: ^11.3.1
+
+  # Rede
+  dio: ^5.7.0
+
+  # Banco local offline-first
+  sqflite: ^2.3.3
+  sqflite_common_ffi: ^2.3.4
+
+  # Segurança — tokens JWT
+  flutter_secure_storage: ^9.2.2
+
+  # Conectividade — auto-sync
+  connectivity_plus: ^6.1.0
+
+  # Notificações locais (alertas de fogo/desmatamento)
+  flutter_local_notifications: ^17.2.4
+
+  # Utilities
+  path: ^1.9.0
+  intl: ^0.20.2
+  uuid: ^4.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
