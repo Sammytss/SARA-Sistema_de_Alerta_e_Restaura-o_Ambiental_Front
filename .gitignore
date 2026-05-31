@@ -48,7 +48,6 @@ app.*.map.json
 *_plan.md
 git_history_plan.md
 "Prompt, para o Opus.txt"
-README.md
 
 # Configuração local do Claude Code
 .claude/
